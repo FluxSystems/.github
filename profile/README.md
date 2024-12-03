@@ -1,4 +1,4 @@
-![Banner](https://github.com/FluxSystems/.github/blob/main/profile/Banner_FluxSystems_DRAFT_BG.png)
+![Banner](https://github.com/FluxSystems/.github/blob/main/profile/Banner_FluxSystems_DRAFT2_BG.png)
 
 FluxForge | FluxBuildSystem
 :--------:|:-------------------------:
