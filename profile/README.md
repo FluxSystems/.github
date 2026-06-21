@@ -26,7 +26,7 @@
   <tr>
     <td><b>FluxForge</b></td>
     <td><b>FluxBuildSystem</b></td>
-    <td><b>WebSharp</b></td>
+    <td><b>APIServer</b></td>
     <td><b>FluxLogViewer</b></td>
   </tr>
   <tr>
@@ -41,18 +41,18 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/FluxSystems/WebSharp">
-        <img src="https://github.com/FluxSystems/WebSharp/blob/alpha/WebSharpLogo.png" width="200px"/>
+      <a href="https://github.com/FluxSystems/APIServer">
+        <img src="https://github.com/FluxSystems/APIServer/blob/alpha/APIServerLogo.png" width="200px"/>
       </a>
       <br/>
-      <a href="https://github.com/FluxSystems/WebSharp">
-        <img src="https://github.com/FluxSystems/WebSharp/blob/alpha/Extensions/FluxSystems.WebSharp.Blazor/WebSharpBlazorLogo.png" width="98px"/>
+      <a href="https://github.com/FluxSystems/APIServer">
+        <img src="https://github.com/FluxSystems/APIServer/blob/alpha/Extensions/FluxSystems.APIServer.Blazor/APIServerBlazorLogo.png" width="98px"/>
       </a>
-      <a href="https://github.com/FluxSystems/WebSharp">
-        <img src="https://github.com/FluxSystems/WebSharp/blob/alpha/Extensions/WebSharp.Angular/WebSharpAngularLogo.png" width="98px"/>
+      <a href="https://github.com/FluxSystems/APIServer">
+        <img src="https://github.com/FluxSystems/APIServer/blob/alpha/Extensions/APIServer.Angular/APIServerAngularLogo.png" width="98px"/>
       </a>
       <br/>
-      <a href="https://github.com/FluxSystems/WebSharpBlazorWASMTemplate">➤ Blazor WASM Template</a>
+      <a href="https://github.com/FluxSystems/APIServerBlazorWASMTemplate">➤ Blazor WASM Template</a>
     </td>
     <td>
       <a href="https://github.com/FluxSystems/FluxLog">
